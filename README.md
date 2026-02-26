@@ -1,1 +1,1 @@
-"C:\Users\sasak\Desktop\Mi novia\imagenes\anime-couple-being-love.jpg"
+file:///C:/Users/sasak/Desktop/Mi%20novia/index.html
